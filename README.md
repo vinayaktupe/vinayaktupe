@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
+## Compete with my CPU in [Tic Tac Toe](https://vinayaktupe.github.io/tic_tac_toe/index.html "Tic Tac Toe")
+ 
 <!--
 **vinayaktupe/vinayaktupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
